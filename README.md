@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1C1C1E&height=140&section=header&text=Dipang%20Sheth&fontSize=42&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A84FF&height=140&section=header&text=Dipang%20Sheth&fontSize=48&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size302&duration=2800&color=0A84FF&center=true&vCenter=true&width=600&lines=Lead+iOS+Engineer+🍎;10%2B+Years+Experience;Scalable+Mobile+Architecture;AI+%2B+iOS+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=0A84FF&center=true&vCenter=true&width=600&lines=Lead+iOS+Engineer+🍎;10%2B+Years+Experience;Scalable+Mobile+Architecture;AI+%2B+iOS+Engineering" />
 </h3>
 
 <p align="center">
