@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0A84FF&height=180&section=header&text=DIPANG%20SHETH&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size302&duration=2800&color=0A84FF&center=true&vCenter=true&width=600&lines=Lead+iOS+Engineer+🍎;10%2B+Years+Experience;Scalable+Mobile+Architecture;AI+%2B+iOS+Engineering" />
-</h3>
+</h2>
 
 <p align="center">
   <b>Building scalable, high-performance iOS applications</b>
@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/📞%20%2B91%209409049457-34C759?style=flat&logo=phone&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E5E5EA&height=2&section=header" />
+</p>
 
 ## 👋 About
 
