@@ -21,16 +21,6 @@
 Lead iOS Developer with 10+ years of experience building scalable, high-performance mobile applications across enterprise and consumer domains.
 
 
-## 🧠 Tech Stack (Overview)
-
-* **Languages:** Swift, SwiftUI, Objective-C, React Native
-* **Architecture:** MVVM, Clean Architecture, Protocol-Oriented Programming
-* **Concurrency:** async/await, Combine, GCD
-* **APIs & Backend:** REST APIs, Firebase
-* **CI/CD:** Jenkins, Fastlane, TestFlight
-* **Tools:** Xcode Instruments, Crashlytics
-
-
 ## 🛠️ Technologies & Tools
 
 > *The tools I use to build scalable, production-grade iOS applications.*
