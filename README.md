@@ -34,4 +34,11 @@
 - Passionate about building tools that help developers  
 
 ## 📫 Let's Connect
-- Open for collaboration & remote opportunities  
+- Open for collaboration & remote opportunities
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dipang90/dipang90/output/github-contribution-grid-snake.svg" />
+</p>
+
