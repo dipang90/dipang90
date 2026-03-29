@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0A84FF&height=180&section=header&text=DIPANG%20SHETH&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0A84FF&height=140&section=header&text=DIPANG%20SHETH&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -16,12 +16,8 @@
   <img src="https://img.shields.io/badge/📞%20%2B91%209409049457-34C759?style=flat&logo=phone&logoColor=white" />
 </p>
 
-<br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E5E5EA&height=1&section=header" />
-</br>
 
 ## 👋 About
-
 Lead iOS Developer with 10+ years of experience building scalable, high-performance mobile applications across enterprise and consumer domains.
 
 
