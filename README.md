@@ -16,13 +16,11 @@
   <img src="https://img.shields.io/badge/📞%20%2B91%209409049457-34C759?style=flat&logo=phone&logoColor=white" />
 </p>
 
--
 
 ## 👋 About
 
 Lead iOS Developer with 10+ years of experience building scalable, high-performance mobile applications across enterprise and consumer domains.
 
----
 
 ## 🧠 Tech Stack (Overview)
 
@@ -33,7 +31,6 @@ Lead iOS Developer with 10+ years of experience building scalable, high-performa
 * **CI/CD:** Jenkins, Fastlane, TestFlight
 * **Tools:** Xcode Instruments, Crashlytics
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -99,7 +96,6 @@ Lead iOS Developer with 10+ years of experience building scalable, high-performa
   * Code quality improvements
 * Focused on **AI-driven engineering productivity**
 
----
 
 ## 🚀 Impact
 
@@ -108,7 +104,6 @@ Lead iOS Developer with 10+ years of experience building scalable, high-performa
 * ⚡ **40% faster release cycles**
 * 🧠 **30%+ performance improvements**
 
----
 
 ## 🏗️ What I Do
 
@@ -117,7 +112,6 @@ Lead iOS Developer with 10+ years of experience building scalable, high-performa
 * Mentor iOS engineers
 * Collaborate with global stakeholders
 
----
 
 ## 🏆 Achievements
 
@@ -125,14 +119,12 @@ Lead iOS Developer with 10+ years of experience building scalable, high-performa
 * Maintained exceptional app stability at scale
 * Strong focus on performance optimization and clean code
 
----
 
 ## 🌍 Open Source & Collaboration
 
 * Open to contributing to impactful projects
 * Interested in building AI-powered developer tools
 
----
 
 ## 🤝 Connect
 
@@ -144,11 +136,10 @@ Lead iOS Developer with 10+ years of experience building scalable, high-performa
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:sheth.dipang@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
 
 <p align="center">
   <i>Engineering scalable mobile systems with clean architecture and AI integration.</i>
